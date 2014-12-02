@@ -8,9 +8,9 @@ Have you ever ... bla bla bla
 Description of my index proposal 
 
 
-*1.- Presentation
-*2.- Busimess Team
-*3.- The problem
-*.- 
+* 1.- Presentation
+* 2.- Busimess Team
+* 3.- The problem
+* .- 
 
 **Public Key**
