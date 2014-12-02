@@ -11,10 +11,12 @@ Don’t worry, Oculus Live will solve all your problems. Oculus Live is a realit
 ### Index Presentation
 Description of my index proposal 
 
-
-* 1.- Presentation
-* 2.- Busimess Team
-* 3.- The problem
+* 0.- Team Presentation
+* 1.- Problem
+* 2.- Solution
+* 3.- 
+* 
+competitive Advantage
 * .- 
 
 **Public Key**
