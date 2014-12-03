@@ -14,9 +14,10 @@ Description of my index proposal
 * 0.- Team Presentation
 * 1.- Problem
 * 2.- Solution
-* 3.- 
-* 
-competitive Advantage
-* .- 
+* 3.- Competitive Advantage --> Innovation
+* 4.- Business model --> How we will obtain money?
+* 5.- Marketing and sales (4c's / opposition)
+* 6.- Economic and financial points --> Investment plan and treasury
+* 7.- Conclusion
 
-**Public Key**
+**473171**
